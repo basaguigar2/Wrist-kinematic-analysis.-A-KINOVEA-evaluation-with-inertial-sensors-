@@ -19,7 +19,7 @@ Arduino Scripts: Contains all the scripts used for setting up and retrieving dat
 
 Python Scripts: Includes scripts for processing the data collected from the sensors. These scripts handle the data acquisition from the Arduino setup and prepare it for analysis.
 
-Data Comparison: Hosts the scripts responsible for comparing the sensor data with the outputs from KINOVEA, providing the analytical backbone of the project that assesses and validates the software's performance against the sensor data.
+Data Comparison: Hosts the scripts responsible for comparing the sensor data with the outputs from KINOVEA, providing the analytical backbone of the project that assesses and validates the software's performance against the sensor data. The files with the type "Abduction_K" (with a final _K) are from KINOVEA, and the ones with the type "Subject1_Abduction" (Starting with the subject) are dataa from the sensors.
 
 Video Data
 All video recordings used and generated during the project are stored in a separate cloud-based folder labeled as Project Videos. This folder is accessible through the following shared link, which contains all video files organized by subject and session. These videos are integral for side-by-side comparison with sensor data outputs.
